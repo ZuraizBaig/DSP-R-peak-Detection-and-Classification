@@ -5,3 +5,7 @@ Launch it in Jupyter Notebook or Google Colab.
 Run the cells in order.
 
 Examine the processed signal and detected R-peaks in the plots.
+
+note that signals should eb sampled around 360 samples per second and segmented around the R-peak as give in the code 
+
+for demo: many sample signal collected form the siganla cquisition system have been given , Enjoy : )
